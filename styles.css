@@ -14,6 +14,10 @@ nav a {
     display: block;
     color: white;
     padding: 15px 20px;
+    text-decoration: none;
+}
+nav a:hover {
+    color: rgb(102, 42, 243);
 }
 header {
     text-align: center;
